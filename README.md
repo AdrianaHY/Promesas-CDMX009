@@ -34,6 +34,9 @@ Aunque se dice que las promesas tienen tres estados, lo cierto es que solo puede
   
  Una vez que la promesa pasó de pendiente a cumplida o rechazada NO PUEDE cambiar de estado (ver ejemplo 3).
  
+ ### Recursos
+ 
+(https://codepen.io/AdrianaHY/pen/xxwggZV?editors=0011)
  
  
  
