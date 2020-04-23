@@ -1,14 +1,22 @@
+![Laboratoria](https://miro.medium.com/fit/c/1838/551/1*3ebT5azEfTrKxANOE3BwyA.jpeg)
+
 # Promesas-CDMX009
 
 ## ¿Qué es una promesa?
 
 Según la definición de MDN, una promesa es: El objeto Promise (Promesa) es usado para computaciones asíncronas. Una promesa representa un valor que puede estar disponible ahora, en el futuro, o nunca. O NUNCA!
 
+![Laboratoria](https://media.giphy.com/media/1BXa2alBjrCXC/giphy.gif)
+
+
 Se utiliza cuando estamos frente a un código asíncrono, ya que este objeto "nos promete" que devolverá un valor, ya sea en el presente o en el futuro, además recuerda su contexto de ejecución, es decir, sabe en que punto resolverse o lanzar un error (mirar Ejemplo 1). Esto nos permite crear un objeto con el cual podemos trabajar independientemente de lo que suceda con la llamada asíncrona.
 
 ## ¿Cómo se hace una promesa?
 
 Para crear una promesa utilizamos la palabra reservada new seguido del constructor Promise, es decir, haremos una instancia de la clase Promise. La nueva instancia va a recibir dos parámetros: resolve y reject. Resolve se utiliza para cuando la promesa se resuelve de manera correcta y reject se utilizará en el caso de que no funcione (mirar ejemplo 2).
+
+![Laboratoria](https://media.giphy.com/media/A7LhJ4LHiChe8/giphy.gif)
+
 
 ## Estados de las promesas
 
